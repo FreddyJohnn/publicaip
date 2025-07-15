@@ -1,0 +1,182 @@
+[
+    {
+        "IP": "8.8.8.8",
+        "Pa\u00eds": "United States",
+        "Regi\u00f3n": "Virginia",
+        "ISP": "Google LLC",
+        "Coordenadas": {
+            "Latitud": 39.03,
+            "Longitud": -77.5
+        }
+    },
+    {
+        "IP": "8.8.8.1",
+        "Pa\u00eds": "United States",
+        "Regi\u00f3n": "California",
+        "ISP": "Google LLC",
+        "Coordenadas": {
+            "Latitud": 37.4223,
+            "Longitud": -122.085
+        }
+    },
+    {
+        "IP": "8.8.4.4",
+        "Pa\u00eds": "United States",
+        "Regi\u00f3n": "Virginia",
+        "ISP": "Google LLC",
+        "Coordenadas": {
+            "Latitud": 39.03,
+            "Longitud": -77.5
+        }
+    },
+    {
+        "IP": "8.20.247.20",
+        "Pa\u00eds": "United States",
+        "Regi\u00f3n": "New Jersey",
+        "ISP": "Flexential Corp",
+        "Coordenadas": {
+            "Latitud": 40.8533,
+            "Longitud": -74.1784
+        }
+    },
+    {
+        "IP": "8.26.56.26",
+        "Pa\u00eds": "United States",
+        "Regi\u00f3n": "New Jersey",
+        "ISP": "Flexential Corp",
+        "Coordenadas": {
+            "Latitud": 40.8533,
+            "Longitud": -74.1784
+        }
+    },
+    {
+        "IP": "9.9.9.9",
+        "Pa\u00eds": "United States",
+        "Regi\u00f3n": "California",
+        "ISP": "Quad9",
+        "Coordenadas": {
+            "Latitud": 37.8767,
+            "Longitud": -122.2676
+        }
+    },
+    {
+        "IP": "112.112.112.112",
+        "Pa\u00eds": "China",
+        "Regi\u00f3n": "Yunnan",
+        "ISP": "Chinanet",
+        "Coordenadas": {
+            "Latitud": 25.0453,
+            "Longitud": 102.71
+        }
+    },
+    {
+        "IP": "64.6.64.6",
+        "Pa\u00eds": "United States",
+        "Regi\u00f3n": "Ohio",
+        "ISP": "Neustar Security Services",
+        "Coordenadas": {
+            "Latitud": 40.4642,
+            "Longitud": -80.6009
+        }
+    },
+    {
+        "IP": "64.6.65.6",
+        "Pa\u00eds": "United States",
+        "Regi\u00f3n": "Florida",
+        "ISP": "Neustar Security Services",
+        "Coordenadas": {
+            "Latitud": 25.7617,
+            "Longitud": -80.1918
+        }
+    },
+    {
+        "IP": "84.200.69.80",
+        "Pa\u00eds": "Germany",
+        "Regi\u00f3n": "Hesse",
+        "ISP": "firstcolo GmbH",
+        "Coordenadas": {
+            "Latitud": 50.1396,
+            "Longitud": 8.743
+        }
+    },
+    {
+        "IP": "84.200.70.40",
+        "Pa\u00eds": "Germany",
+        "Regi\u00f3n": "Hesse",
+        "ISP": "Accelerated IT Services GmbH",
+        "Coordenadas": {
+            "Latitud": 50.1109,
+            "Longitud": 8.68213
+        }
+    },
+    {
+        "IP": "195.46.39.39",
+        "Pa\u00eds": "Germany",
+        "Regi\u00f3n": "Hesse",
+        "ISP": "SafeDNS, Inc.",
+        "Coordenadas": {
+            "Latitud": 50.1109,
+            "Longitud": 8.68213
+        }
+    },
+    {
+        "IP": "195.46.39.40",
+        "Pa\u00eds": "Germany",
+        "Regi\u00f3n": "Hesse",
+        "ISP": "SafeDNS, Inc.",
+        "Coordenadas": {
+            "Latitud": 50.1109,
+            "Longitud": 8.68213
+        }
+    },
+    {
+        "IP": "176.103.130.130",
+        "Pa\u00eds": "Cyprus",
+        "Regi\u00f3n": "Limassol District",
+        "ISP": "AdGuard Software Limited",
+        "Coordenadas": {
+            "Latitud": 34.6864,
+            "Longitud": 33.0519
+        }
+    },
+    {
+        "IP": "176.103.130.131",
+        "Pa\u00eds": "Cyprus",
+        "Regi\u00f3n": "Limassol District",
+        "ISP": "AdGuard Software Limited",
+        "Coordenadas": {
+            "Latitud": 34.6864,
+            "Longitud": 33.0519
+        }
+    },
+    {
+        "IP": "216.146.35.35",
+        "Pa\u00eds": "Brazil",
+        "Regi\u00f3n": "S\u00e3o Paulo",
+        "ISP": "Oracle Corporation",
+        "Coordenadas": {
+            "Latitud": -23.5558,
+            "Longitud": -46.6396
+        }
+    },
+    {
+        "IP": "216.146.36.36",
+        "Pa\u00eds": "Brazil",
+        "Regi\u00f3n": "S\u00e3o Paulo",
+        "ISP": "Oracle Corporation",
+        "Coordenadas": {
+            "Latitud": -23.5558,
+            "Longitud": -46.6396
+        }
+    },
+    {
+        "IP": "185.228.168.168",
+        "Pa\u00eds": "United States",
+        "Regi\u00f3n": "District of Columbia",
+        "ISP": "Daniel Cid",
+        "Coordenadas": {
+            "Latitud": 38.9072,
+            "Longitud": -77.0369
+        }
+    }
+]
